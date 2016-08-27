@@ -1,0 +1,24 @@
+{
+  "name": "node-webserver",
+  "version": "1.0.0",
+  "description": "a simple node server, drop program folders in the directory to run them as you would with mamp or wamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajevann/node-webserver.git"
+  },
+  "keywords": [
+    "node",
+    "webserver"
+  ],
+  "author": "ajevann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajevann/node-webserver/issues"
+  },
+  "homepage": "https://github.com/ajevann/node-webserver"
+}
